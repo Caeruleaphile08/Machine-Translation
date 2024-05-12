@@ -1,4 +1,4 @@
-# Speech to Hindi Translation
+# NULLCLASS TASK-3 (Speech to Hindi Translation)
 
 This project is a simple Python script that converts speech to text using the Google Speech Recognition API and translates the text to Hindi using the Google Translate API.
 
